@@ -1,0 +1,87 @@
+body
+{
+    background-color:#a6edfc;
+    margin: 0px;
+}
+
+a:link
+{
+    color: white;
+    text-decoration-line: underline;
+}
+a:hover
+{
+    color: #a6edfc;
+    text-decoration-line: underline;
+}
+a:active
+{
+    color: orange;
+    text-decoration-line: underline;
+}
+a:visited
+{
+    color: #b0a6fc; 
+    text-decoration-line: underline;   
+}
+
+
+#header
+{
+    background-color: black;
+    padding-left: 20px;
+    color: white;
+}
+
+#main
+{
+    background-color: white;
+    color: black;
+    padding: 3px 25px 5px 25px;
+    margin-top: 0px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#footer
+{
+    background-color: black;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.middle
+{
+    vertical-align: middle;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.in-line h2
+{
+    display: inline-block;
+}
+
+.in-line p
+{
+    display: inline;
+    text-align: center;
+}
+
+.centerImageSingle
+{
+    display: block;
+    margin: auto;
+}
+
+.centerImageMulti
+{
+    display: inline-block;
+    margin: auto;
+    padding: 4px;
+}
